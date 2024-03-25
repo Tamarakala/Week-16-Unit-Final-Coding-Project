@@ -6,10 +6,10 @@
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Tamarakala/Week-16-Unit-Final-Coding-Project.git
 
 # Navigate into the project directory
-cd <project-name>
+cd Week-16-Unit-Final-Coding-Project
 
 # Install dependencies
 npm install
